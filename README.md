@@ -1,19 +1,19 @@
-# FAQ Chatbot (ShopEasy)
+# Hi there, I'm Sabeel 👋
 
-A retrieval-based FAQ chatbot.
+Welcome to my GitHub profile! I'm a developer passionate about building web applications and AI tools.
 
-**Pipeline:** FAQs (`faqs.json`) → NLTK preprocessing (lowercase, regex tokenization, stop-word removal, Porter stemming) → TF-IDF vectors (scikit-learn) → cosine similarity → best-matching answer (fallback message if similarity < threshold).
+## 🚀 Projects
+- **[FAQ Chatbot (ShopEasy)](https://github.com/Sabeel-18/FAQ-Chatbot)**: A retrieval-based FAQ chatbot built with Flask, NLTK, and scikit-learn.
 
-## Run
-```bash
-pip install -r requirements.txt
-python app.py        # web chat UI at http://127.0.0.1:5000
-python chatbot.py    # terminal chatbot
-```
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, HTML5, CSS3
+- **Frameworks:** Flask
+- **Machine Learning / NLP:** NLTK, scikit-learn (TF-IDF, Cosine Similarity)
+- **Tools:** Git, GitHub, VS Code
 
-## Files
-- `faqs.json` – 20 FAQs (question, answer, keywords/paraphrases)
-- `chatbot.py` – preprocessing + matching engine
-- `app.py`, `templates/index.html` – Flask chat UI
+## 📊 GitHub Stats
+![Sabeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabeel-18&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabeel-18&layout=compact&theme=radial)
 
-To change the topic, just edit `faqs.json`.
+---
+📫 Reach out to me on [GitHub](https://github.com/Sabeel-18)!
