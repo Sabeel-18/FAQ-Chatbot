@@ -1,0 +1,102 @@
+[
+  {
+    "question": "How do I place an order?",
+    "answer": "Browse products, add items to your cart, click Checkout, enter your shipping and payment details, and confirm the order. You will receive a confirmation email immediately.",
+    "keywords": "buy purchase checkout shop order process how to order"
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept credit and debit cards (Visa, MasterCard, RuPay), UPI, net banking, popular wallets, and Cash on Delivery for orders under Rs. 10,000.",
+    "keywords": "pay payment method card upi cod cash on delivery net banking wallet visa mastercard"
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "Go to My Orders in your account and click Track Order, or use the tracking link sent to your email and SMS once the order is shipped.",
+    "keywords": "where is my package parcel shipment status tracking track locate"
+  },
+  {
+    "question": "How long does delivery take?",
+    "answer": "Standard delivery takes 3-7 business days. Express delivery takes 1-2 business days in major cities.",
+    "keywords": "delivery time how long when will it arrive days shipping time estimated"
+  },
+  {
+    "question": "How much are the shipping charges?",
+    "answer": "Shipping is free on orders above Rs. 499. For smaller orders, a flat fee of Rs. 49 applies.",
+    "keywords": "shipping charges delivery fee cost free shipping delivery charge"
+  },
+  {
+    "question": "Can I cancel my order?",
+    "answer": "Yes. You can cancel from My Orders any time before the order is shipped. After shipping, you can refuse delivery or return the item.",
+    "keywords": "cancel cancellation stop order undo remove order"
+  },
+  {
+    "question": "What is your return policy?",
+    "answer": "Most items can be returned within 30 days of delivery if they are unused and in original packaging. Go to My Orders and click Return Item.",
+    "keywords": "return policy send back return item days returning returned send back product return request"
+  },
+  {
+    "question": "How do I get a refund?",
+    "answer": "Refunds are issued to the original payment method within 5-7 business days after we receive and inspect the returned item.",
+    "keywords": "refund money back reimbursement get my money back payment returned"
+  },
+  {
+    "question": "Can I exchange a product?",
+    "answer": "Yes. Eligible items can be exchanged for a different size, color or model within 30 days of delivery, subject to availability.",
+    "keywords": "exchange swap replace change size color model"
+  },
+  {
+    "question": "I received a damaged or wrong item. What should I do?",
+    "answer": "We are sorry about that. Contact support within 48 hours of delivery with photos of the item and we will arrange a free replacement or full refund.",
+    "keywords": "damaged broken defective wrong item faulty received incorrect product arrived broken"
+  },
+  {
+    "question": "How do I create an account?",
+    "answer": "Click Sign Up at the top right, enter your name, email and a password, then verify your email address with the link we email you.",
+    "keywords": "sign up register signup create account new account join"
+  },
+  {
+    "question": "I forgot my password. How can I reset it?",
+    "answer": "Click Forgot Password on the login page, enter your registered email, and follow the reset link we email you.",
+    "keywords": "forgot password reset password login problem cannot login change password"
+  },
+  {
+    "question": "How do I update my shipping address?",
+    "answer": "Open Account Settings, choose Addresses, then add or edit your address. To change the address on an existing order, contact support before it ships.",
+    "keywords": "change address update address shipping address edit address delivery address"
+  },
+  {
+    "question": "Do you offer international shipping?",
+    "answer": "Currently we ship only within India. International shipping is planned for the future.",
+    "keywords": "international shipping abroad overseas outside india worldwide ship to other countries"
+  },
+  {
+    "question": "How do I use a coupon or promo code?",
+    "answer": "Enter your code in the Apply Coupon box on the cart page before checkout. The discount will show in your order summary.",
+    "keywords": "coupon promo code discount voucher offer"
+  },
+  {
+    "question": "Do you offer EMI or installment options?",
+    "answer": "Yes. No-cost EMI is available on select credit cards for orders above Rs. 3,000. Options appear at checkout.",
+    "keywords": "emi installment installments monthly payments no cost emi"
+  },
+  {
+    "question": "Do products come with a warranty?",
+    "answer": "Electronics carry the manufacturer's warranty, usually 1 year. Warranty details are listed on each product page and in your invoice.",
+    "keywords": "warranty guarantee manufacturer coverage repair"
+  },
+  {
+    "question": "How can I contact customer support?",
+    "answer": "Email support@shopeasy.example, call 1800-123-4567 (9 AM - 9 PM, Mon-Sat), or use the live chat in the app.",
+    "keywords": "contact support help customer care phone email call talk to agent"
+  },
+  {
+    "question": "Is my payment information secure?",
+    "answer": "Yes. All payments are encrypted with SSL and processed by PCI-DSS compliant gateways. We never store your full card details.",
+    "keywords": "secure safe security payment safety encrypted privacy card details"
+  },
+  {
+    "question": "How do I download my invoice?",
+    "answer": "Go to My Orders, select the order and click Download Invoice. A PDF copy is also emailed after delivery.",
+    "keywords": "invoice bill receipt download invoice gst bill"
+  }
+]
